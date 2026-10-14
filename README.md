@@ -1,4 +1,5 @@
 <p align="center"><img src="github_social.png" alt="RE:Formation - an RE Engine mod manager" width="720"></p>
+
 # RE:Formation
 
 **An RE Engine mod manager.**
